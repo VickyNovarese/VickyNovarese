@@ -1,67 +1,66 @@
-## Hi there 👋
-# 🙋🏻‍♀️ ¡Hola! Soy María Virginia Novarese
+👋 Hi there, I'm María Virginia Novarese
+🚀 QA Lead | Project Manager | Software Quality Engineer
 
-## 👩🏻‍💻 QA Engineer | Functional & Automation Testing | Cypress | Postman | SCRUM | SQL | Kafka
+I'm a QA Lead and Project Manager passionate about software quality, test automation, and continuous improvement.
 
-Soy **QA Engineer** con sólida experiencia en pruebas manuales y en el desarrollo de tests automáticos con **Cypress**. Cuento con conocimiento de **SCRUM**, fuerte dominio del inglés, y una actitud proactiva que me impulsa a aprender constantemente, enfrentar desafíos y aportar al equipo con compromiso y organización.
+I enjoy helping teams build reliable software by combining manual testing, automation, Agile methodologies, and effective project management.
 
----
+💼 What I do
+✔ Lead QA and development teams
+✔ Define QA strategies and testing processes
+✔ Design Manual & Automated Test Plans
+✔ API Testing
+✔ Agile Project Management
+✔ Release Planning & Quality Assurance
+✔ CI/CD collaboration
 
-### 🧪 Áreas de experiencia
+🛠 Tech Stack
 
-- **Testing funcional manual**: diseño y ejecución de casos de prueba (caja negra y caja gris).
-- **Automatización de pruebas**: desarrollo de tests E2E con **Cypress** en arquitecturas de microservicios.
-- **Análisis de historias de usuario**: criterios de aceptación, reglas de negocio.
-- **BDD con Gherkin**: creación de escenarios y definición de criterios de aceptación.
-- **Reporte de bugs y gestión de incidencias**: uso de **Jira** y **X-Ray**.
-- **Pruebas de API**: uso de **Postman** para validaciones funcionales.
-- **Base de datos**: consultas en **MySQL** con **Workbench**.
-- **Kafka**: pruebas en entornos con colas de mensajes.
-- **Control de versiones**: uso de **Git**, gestión de ramas, repositorios y CI/CD.
-- **Análisis y métricas**: uso de herramientas como **SonarCloud**, **Power BI**, **Grafana** y **Graylog**.
+🎭 Test Automation
+Playwright
+Cypress
+Postman
 
----
 
-### 💻 Herramientas y tecnologías
+📋 QA & Project Management
+Jira
+Asana
+TestLink
+Agile
+Scrum
 
-`Jira` · `X-Ray` · `Postman` · `Trello` · `MySQL` · `Workbench` · `Cypress` · `Kafka` · `Git` · `Express` · `Slack` · `Discord` · `SonarCloud` · `Power BI` · `Grafana` · `Graylog`
+⚙️ DevOps & CI/CD
+Git
+GitHub
+GitHub Actions
 
----
+🗄 Databases
+MySQL
 
-### 🔄 Metodologías ágiles
 
-- Participación activa en **Sprint Planning**, **Daily Meetings**, y **Sprint Retrospectives**.
-- Comunicación fluida con equipos de desarrollo, producto y stakeholders.
+🌱 Currently Learning
 
----
+🎭 Initial Playwright
 
-### 📫 Contacto
+📘 TypeScript
 
-**Email:** mariavirginianovarese@gmail.com
+⚙️ API Automation
 
----
 
-### 💡 Sobre mí
 
-📚 Me apasionan los libros  
-🏋🏻‍♀️ Disfruto hacer actividad física  
-🎨 En mi tiempo libre hago trabajos en porcelana fría
+📈 GitHub Goals
+Build professional Playwright Frameworks
+Share Automation Examples
+Publish QA Cheat Sheets
+Create reusable testing utilities
+Contribute to Open Source
+📫 Let's Connect
+💼 LinkedIn: https://www.linkedin.com/in/mariavirginianovarese/
+📧 mariavirginianovarese@gmail.com
+⚡ Fun Fact
 
----
+📚 Book lover
 
-¡Gracias por visitar mi perfil! 😊
+🏃 Always learning something new
 
-<!--
-**VickyNovarese/VickyNovarese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☕ Coffee + Playwright = Happy QA
